@@ -147,7 +147,7 @@ def create_ticket(message):
         },
          'summary': problem_summary,
          'description': problem_descryprtion,
-         # 'reporter': {'name': name},
+         # 'reporter': {'name': name}, # if need repoter 
     })
 
     last_issue = jira.search_issues("project=YYOU")[0].key
