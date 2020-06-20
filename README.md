@@ -1,15 +1,15 @@
 # Сценарии использования
 ## 1. Успешный поиск по БД
 ### ЧатБот производит поиск по базе данных готовых решений, при совпадении выводит варианты:
-![alt text](screenshots/Screenshot_1.png)
+![alt text](Screenshots/Screenshot_1.png)
 ### Если пользователь отвечает утвердительно - создается сразу закрытая заяка:
-![alt text](screenshots/Screenshot_2.png)
+![alt text](Screenshots/Screenshot_2.png)
 
 ## 2. Если решений нет или они не подошли
 ### ЧатБот уточняет детали заявки которые в дальнейшем станут описанием заявки
-![alt text](screenshots/Screenshot_3.png)
+![alt text](Screenshots/Screenshot_3.png)
 ### Так создается обычная заявка:
-![alt text](screenshots/Screenshot_4.png)
+![alt text](Screenshots/Screenshot_4.png)
 
 
 Было представлено в качестве бакалаврской дипломной работы 
